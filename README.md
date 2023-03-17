@@ -1,0 +1,2 @@
+# generickoleksiyonlar
+generic koleksiyonlar
